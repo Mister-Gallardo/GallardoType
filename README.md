@@ -4,7 +4,7 @@ GallardoType is a minimalistic typing speed testing app built with React and Tai
 
 ## Live Demo
 
-Check out the live demo [here](https://estifanos12.github.io/OpenType/).
+Check out the live demo [here](https://mister-gallardo.github.io/GallardoType/).
 
 ## Current Features
 
