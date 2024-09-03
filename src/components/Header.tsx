@@ -3,13 +3,11 @@ import styled from 'styled-components';
 import { useThemeContext } from '../hooks/useTheme';
 
 import { BsQuestionCircle } from 'react-icons/bs';
-import { BsKeyboardFill } from 'react-icons/bs';
 
 import Tooltip from './Tooltip';
 import ThemeDropdown from './ThemeDropdown';
 
 type HeaderProps = {
-  restart: () => void;
   openAboutModal: (str: string) => void;
   closeAboutModal: (str: string) => void;
 };
@@ -20,13 +18,13 @@ const StyledSvg = styled.svg`
   color: ${({ theme }) => theme.text.title};
 `;
 
-const Header = ({ restart, openAboutModal }: HeaderProps) => {
+const Header = ({ openAboutModal }: HeaderProps) => {
   const { systemTheme } = useThemeContext();
 
   return (
     <header className='flex items-center justify-between py-8'>
       <div
-        className='flex cursor-pointer items-center gap-3'
+        className='flex items-center gap-3'
         style={{
           color: systemTheme.text.title,
         }}
@@ -77,22 +75,10 @@ const Header = ({ restart, openAboutModal }: HeaderProps) => {
           </g>
         </StyledSvg>
         <h1
-          className={`font-mono text-2xl font-bold hover:underline lg:text-3xl`}
+          className={`font-mono text-2xl font-bold lg:text-3xl`}
         >
           GallardoType
         </h1>
-        <Tooltip tooltipId='keyboard'>
-          <div
-            className='ml-4'
-            onClick={() => {
-              restart();
-            }}
-            data-tooltip-id='keyboard'
-            data-tooltip-content='Restart'
-          >
-            <BsKeyboardFill className='text-2xl lg:text-3xl ' />
-          </div>
-        </Tooltip>
       </div>
       <div className='flex gap-4'>
         <ThemeDropdown />

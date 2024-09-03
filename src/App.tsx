@@ -56,7 +56,6 @@ function App() {
         ) : (
           <>
             <Header
-              restart={restartTest}
               openAboutModal={openModal}
               closeAboutModal={closeModal}
             />
