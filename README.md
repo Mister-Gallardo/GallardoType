@@ -25,21 +25,21 @@ Check out the live demo [here](https://estifanos12.github.io/OpenType/).
 
 ## Screenshots with different themes
 
-<img width="800" alt="Screen Shot 2022-08-28 at 9 15 36 AM" src="https://github.com/Mister-Gallardo/GallardoType/blob/main/screenshots/screenshot-0.PNG">
+<img width="800" alt="Screen Shot 2022-08-28 at 9 15 36 AM" src="https://github.com/Mister-Gallardo/GallardoType/blob/master/screenshots/screenshot-0.png">
 
-<img width="800" alt="Screen Shot 2022-08-28 at 9 15 36 AM" src="https://github.com/Mister-Gallardo/GallardoType/blob/main/screenshots/screenshot-1.PNG">
+<img width="800" alt="Screen Shot 2022-08-28 at 9 15 36 AM" src="https://github.com/Mister-Gallardo/GallardoType/blob/master/screenshots/screenshot-1.png">
 
-<img width="800" alt="Screen Shot 2022-08-28 at 9 15 36 AM" src="https://github.com/Mister-Gallardo/GallardoType/blob/main/screenshots/screenshot-2.PNG">
+<img width="800" alt="Screen Shot 2022-08-28 at 9 15 36 AM" src="https://github.com/Mister-Gallardo/GallardoType/blob/master/screenshots/screenshot-2.png">
 
-<img width="800" alt="Screen Shot 2022-08-28 at 9 15 36 AM" src="https://github.com/Mister-Gallardo/GallardoType/blob/main/screenshots/screenshot-3.PNG">
+<img width="800" alt="Screen Shot 2022-08-28 at 9 15 36 AM" src="https://github.com/Mister-Gallardo/GallardoType/blob/master/screenshots/screenshot-3.png">
 
-<img width="800" alt="Screen Shot 2022-08-28 at 9 15 36 AM" src="https://github.com/Mister-Gallardo/GallardoType/blob/main/screenshots/screenshot-4.PNG">
+<img width="800" alt="Screen Shot 2022-08-28 at 9 15 36 AM" src="https://github.com/Mister-Gallardo/GallardoType/blob/master/screenshots/screenshot-4.png">
 
-<img width="800" alt="Screen Shot 2022-08-28 at 9 15 36 AM" src="https://github.com/Mister-Gallardo/GallardoType/blob/main/screenshots/screenshot-5.PNG">
+<img width="800" alt="Screen Shot 2022-08-28 at 9 15 36 AM" src="https://github.com/Mister-Gallardo/GallardoType/blob/master/screenshots/screenshot-5.png">
 
-<img width="800" alt="Screen Shot 2022-08-28 at 9 15 36 AM" src="https://github.com/Mister-Gallardo/GallardoType/blob/main/screenshots/screenshot-6.PNG">
+<img width="800" alt="Screen Shot 2022-08-28 at 9 15 36 AM" src="https://github.com/Mister-Gallardo/GallardoType/blob/master/screenshots/screenshot-6.png">
 
-<img width="800" alt="Screen Shot 2022-08-28 at 9 15 36 AM" src="https://github.com/Mister-Gallardo/GallardoType/blob/main/screenshots/screenshot-7.PNG">
+<img width="800" alt="Screen Shot 2022-08-28 at 9 15 36 AM" src="https://github.com/Mister-Gallardo/GallardoType/blob/master/screenshots/screenshot-7.png">
 
 
 
