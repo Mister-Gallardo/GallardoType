@@ -32,7 +32,7 @@ const UserTyped = ({ check, charTyped, word }: UserTypedProps) => {
     >
       {characters.map((_, index) => {
         return (
-          <Character character={word.charAt(index)} state={check(index)} />
+          <Character key={index} character={word.charAt(index)} state={check(index)} />
         );
       })}
     </StyledDiv>
