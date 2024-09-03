@@ -1,17 +1,3 @@
-<style>
-  .image-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-  }
-
-  .image-container img {
-    width: calc(50% - 10px); 
-    min-width: 400px; 
-    margin-bottom: 20px; 
-  }
-</style>
-
 # GallardoType 🖮
 
 GallardoType is a minimalistic typing speed testing app built with React and TailwindCSS that highly inspired by [MonkeyType](https://www.monkeytype.com). The app allows users to test and improve their typing speed and accuracy. The app provides a user-friendly interface and intuitive feedback on typing performance.
@@ -39,14 +25,11 @@ Check out the live demo [here](https://estifanos12.github.io/OpenType/).
 
 ## Screenshots with different themes
 
-<div class="image-container">
-  <img alt="Screen Shot 2022-08-28 at 9 15 36 AM" src="https://github.com/Mister-Gallardo/GallardoType/blob/master/screenshots/screenshot-0.png">
-  <img alt="Screen Shot 2022-08-28 at 9 15 36 AM" src="https://github.com/Mister-Gallardo/GallardoType/blob/master/screenshots/screenshot-1.png">
-  <img alt="Screen Shot 2022-08-28 at 9 15 36 AM" src="https://github.com/Mister-Gallardo/GallardoType/blob/master/screenshots/screenshot-2.png">
-  <img alt="Screen Shot 2022-08-28 at 9 15 36 AM" src="https://github.com/Mister-Gallardo/GallardoType/blob/master/screenshots/screenshot-3.png">
-  <img alt="Screen Shot 2022-08-28 at 9 15 36 AM" src="https://github.com/Mister-Gallardo/GallardoType/blob/master/screenshots/screenshot-4.png">
-  <img alt="Screen Shot 2022-08-28 at 9 15 36 AM" src="https://github.com/Mister-Gallardo/GallardoType/blob/master/screenshots/screenshot-5.png">
-</div>
+| ![Image 1](https://github.com/Mister-Gallardo/GallardoType/blob/master/screenshots/screenshot-0.png) | ![Image 2](https://github.com/Mister-Gallardo/GallardoType/blob/master/screenshots/screenshot-1.png) |
+|---|---|
+| ![Image 3](https://github.com/Mister-Gallardo/GallardoType/blob/master/screenshots/screenshot-2.png) | ![Image 4](https://github.com/Mister-Gallardo/GallardoType/blob/master/screenshots/screenshot-3.png) |
+| ![Image 5](https://github.com/Mister-Gallardo/GallardoType/blob/master/screenshots/screenshot-4.png) | ![Image 6](https://github.com/Mister-Gallardo/GallardoType/blob/master/screenshots/screenshot-5.png) |
+
 
 <br>
 
