@@ -1,6 +1,6 @@
-# OpenType 🖮
+# GallardoType 🖮
 
-OpenType is a minimalistic typing speed testing app built with React and TailwindCSS that highly inspired by [MonkeyType](https://www.monkeytype.com). The app allows users to test and improve their typing speed and accuracy. The app provides a user-friendly interface and intuitive feedback on typing performance.
+GallardoType is a minimalistic typing speed testing app built with React and TailwindCSS that highly inspired by [MonkeyType](https://www.monkeytype.com). The app allows users to test and improve their typing speed and accuracy. The app provides a user-friendly interface and intuitive feedback on typing performance.
 
 ## Live Demo
 
@@ -25,7 +25,7 @@ Check out the live demo [here](https://estifanos12.github.io/OpenType/).
 
 ## Screenshots with different themes
 
-<img width="800" alt="Screen Shot 2022-08-28 at 9 15 36 AM" src="https://github.com/Estifanos12/OpenType/blob/main/screenshots/screenshot-0.png?raw=true">
+<img width="800" alt="Screen Shot 2022-08-28 at 9 15 36 AM" src="https://github.com/Estifanos12/OpenType/blob/main/screenshots/screenshot-1.png">
 
 <br>
 
@@ -37,13 +37,13 @@ To run this app locally, follow these steps:
 Clone this repository
 
 ```bash
-git clone https://github.com/Estifanos12/OpenType.git
+git clone https://github.com/Mister-Gallardo/GallardoType.git
 ```
 
 Navigate to the project directory
 
 ```bash
-cd OpenType
+cd GallardoType
 ```
 
 Install dependencies
